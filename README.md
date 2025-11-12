@@ -48,6 +48,8 @@ Build **1 project every day for 100 days** to:
 
 ---
 
+
+
 ## 🗂️ Project Topics
 
 Includes:
@@ -55,6 +57,13 @@ Includes:
 - ✅ API-based Weather, Quotes, and Movie Apps
 - ✅ Chatbots, Speech/Image Recognition
 - ✅ React CRUD, Auth, Dashboards, and Feeds
+
+---
+
+## 📋 Project Outline
+
+Curious about each daily project?  
+👉 [Check the full project outline here!](./ProjectOutline.md)
 
 ---
 
